@@ -1,0 +1,104 @@
+[
+  {
+    "id": "rule-122de2aa4df3",
+    "text": "Minden függőleges vagy vízszintes falpanel és lamellás burkolat pontos színét, anyagát és HEX-kódját kötelezően rögzíteni kell a szín- és anyaglistában, megelőzve az automatikus fahatású átszínezést.",
+    "createdAt": 1795046548368,
+    "source": "auto"
+  },
+  {
+    "id": "rule-aa30f5069d86",
+    "text": "A kályhák és kandallók vakolt részeinél külön meg kell határozni a felület simaságát, elkerülve a durva kő- vagy téglastruktúra önkényes kialakulását.",
+    "createdAt": 1795046548369,
+    "source": "auto"
+  },
+  {
+    "id": "rule-5e84ff11b328",
+    "text": "A csupasz bútorlapoknál és asztalfelületeknél biztosítani kell az egységes, rögzítőelemektől és foltoktól mentes felületi megjelenést.",
+    "createdAt": 1795046548370,
+    "source": "auto"
+  },
+  {
+    "id": "rule-9926a722c554",
+    "text": "A képszéleken részlegesen látszó állványok és tartószerkezetek talpának színét és formáját pontosan rögzíteni kell a peremzónák leírásában.",
+    "createdAt": 1795046548371,
+    "source": "auto"
+  },
+  {
+    "id": "rule-deb643a5e826",
+    "text": "A bővíthető vagy több elemből álló asztallapoknál a felületi osztóvonalakat és illesztési hézagokat pontosan rögzíteni kell a geometria leírásában.",
+    "createdAt": 1795048091942,
+    "source": "auto"
+  },
+  {
+    "id": "rule-d0494c58ed34",
+    "text": "A faliképek és fali dekorációk esetében egyértelműen meg kell határozni a keret nélküli vagy keretezett kialakítást.",
+    "createdAt": 1795048091943,
+    "source": "auto"
+  },
+  {
+    "id": "rule-5ef609cfabfb",
+    "text": "A nagyobb épületszerkezetek mögött részlegesen takart lépcsőfokok látható túlnyúlásait szintenként érdemes rögzíteni.",
+    "createdAt": 1795048091944,
+    "source": "auto"
+  },
+  {
+    "id": "rule-0211b9807494",
+    "text": "A természetes nappali megvilágítás szórt, éles fényfoltoktól mentes jellegét pontosan specifikálni kell a fénybeállításoknál.",
+    "createdAt": 1795048091945,
+    "source": "auto"
+  },
+  {
+    "id": "rule-def38ec6dff5",
+    "text": "Az átjárókon keresztül részlegesen látszó szekrények pontos ajtószámát és a nyitott polcok csatlakozási pontját a nyílás széléhez viszonyítva rögzíteni kell.",
+    "createdAt": 1795071716725,
+    "source": "auto"
+  },
+  {
+    "id": "rule-aeae3a9e417d",
+    "text": "A pultok feletti fali hátfalak felső élének magasságát a szomszédos ablaknyílásokhoz viszonyítva pontosan meg kell adni.",
+    "createdAt": 1795071716726,
+    "source": "auto"
+  },
+  {
+    "id": "rule-7944b7a57eda",
+    "text": "A lábazati szegélylécek pontos magasságát és síkba simuló vagy profilozott kialakítását az eredeti arányok szerint kell specifikálni.",
+    "createdAt": 1795071716727,
+    "source": "auto"
+  },
+  {
+    "id": "rule-e199da02847b",
+    "text": "A zárt állapotú sötét ablakárnyékolókat teljesen zárt, fényáteresztés nélküli felületként kell definiálni.",
+    "createdAt": 1795071716728,
+    "source": "auto"
+  },
+  {
+    "id": "rule-cc63a7b3a736",
+    "text": "A nyitott polcokon álló tárolóedények darabszámát és eltérő méreteit tételesen rögzíteni kell.",
+    "createdAt": 1795071716729,
+    "source": "auto"
+  },
+  {
+    "id": "rule-4f68e81f6324",
+    "text": "A beépített tüzelőberendezések és kályhák lábazati csatlakozásánál egyértelműen rögzíteni kell a padlóval való közvetlen, szegélylécmentes találkozást, ha az eredeti modellen nincs rajta lábazat.",
+    "createdAt": 1795096124090,
+    "source": "auto"
+  },
+  {
+    "id": "rule-2ab22bdf7352",
+    "text": "A bútorok és előszobafalak felső zárópárkányainál pontosan meg kell adni a síkból való kiállás mélységét, elkerülve a keskeny díszlécek mély polccá alakulását.",
+    "createdAt": 1795096124091,
+    "source": "auto"
+  },
+  {
+    "id": "rule-40b0b1b82280",
+    "text": "A fém vasalatoknál és kilincseknél az eltérő színezésű fémfelületeket (például hűvös kékes árnyalat vs. natúr ezüst) a színlistában külön kontrasztpárként érdemes kiemelni.",
+    "createdAt": 1795096124092,
+    "source": "auto"
+  },
+  {
+    "id": "rule-054cebc8fd66",
+    "text": "A sötét fugás, nagyméretű padlólapoknál a fugahálózat vonalvastagságát és tónuskontrasztját kifejezetten rögzíteni kell a padlóburkolat leírásában.",
+    "createdAt": 1795096124093,
+    "source": "auto"
+  }
+]

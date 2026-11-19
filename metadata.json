@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ArchViz Prompt Studio",
+  "description": "Sötét témájú, glassmorphism stílusú építészeti látványtervező promptmérnök AI chat alkalmazás 2D alaprajzok és 3D modellek elemzéséhez.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
